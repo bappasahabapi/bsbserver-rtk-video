@@ -1,0 +1,36 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "yes net",
+      "completed": false,
+      "color": "yellow"
+    },
+    {
+      "id": 2,
+      "text": "There ia a deamy boy whose naeme is bappa saha",
+      "completed": true,
+      "color": "red"
+    },
+    {
+      "text": "first ",
+      "completed": false,
+      "id": 3
+    },
+    {
+      "text": "second",
+      "completed": false,
+      "id": 4
+    },
+    {
+      "text": "third",
+      "completed": false,
+      "id": 5
+    },
+    {
+      "text": "jgjhgjhg",
+      "completed": false,
+      "id": 6
+    }
+  ]
+}
